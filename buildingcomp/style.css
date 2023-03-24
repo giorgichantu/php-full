@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/*body{
+	padding: 10px;
+}
+*/
+fieldset{
+	width: 80%;
+	margin: auto;
+	padding: 30px;
+}
+input{
+	display: block;
+	margin: 5px auto;
+	width: 80%;
+	padding: 3px 5px;
+}
+.success, .error{
+	padding: 10px 20px;
+	text-align: center;
+	width: 50%;
+	margin: 30px auto; 
+	color: #fff;
+
+}
+.success{
+	background: lightgreen;
+}
+.error{
+	background: #ff0000;
+}
+
+.navbar {
+    border-radius: 0px;
+}
